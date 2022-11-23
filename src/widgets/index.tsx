@@ -38,6 +38,10 @@ async function onActivate(plugin: ReactRNPlugin) {
     keyboardShortcut: `opt+1`,
     action: async () => {
       await plugin.app.toast("I'm a 1!");
+      /*const focusedRem = await plugin.focus.getFocusedRem();
+      if (!focusedRem) return;
+      focusedRem.openRemAsPage();
+      await plugin.app.toast("focusedRem: " + focusedRem.text);*/
     },
   });
   await plugin.app.registerCommand({
