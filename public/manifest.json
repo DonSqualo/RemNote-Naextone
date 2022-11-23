@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
+  "id": "naext_one",
+  "name": "Naext.one",
   "author": "remnote",
   "repoUrl": "https://github.com/DonSqualo/RemNote-Naextone",
   "version": {
