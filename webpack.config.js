@@ -89,6 +89,7 @@ const config = {
     new CopyPlugin({
       patterns: [
         {from: 'public', to: ''},
+        {from: 'src/App.css', to: ''},
         {from: 'README.md', to: ''}
       ]
     }),

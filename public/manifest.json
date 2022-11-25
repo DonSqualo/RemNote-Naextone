@@ -16,7 +16,12 @@
   "requiredScopes": [
     {
       "type": "All",
-      "level": "Read"
+      "level": "ReadCreate"
+    },
+    {
+      "type": "Powerup",
+      "powerupCode": "naextOneTag",
+      "level": "ReadCreateModify"
     }
   ]
 }

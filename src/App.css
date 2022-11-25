@@ -1,1 +1,29 @@
 /* Add your plugin styles here. */
+.naext-tag-wrapper {
+    text-align: right;
+}
+
+.n-color-0 {
+    color: #252525cf;
+}
+.n-color-10 {
+    color: #6b9183cf;
+}
+.n-color-30 {
+    color: #07c77ad5;
+}
+.n-color-50 {
+    color: #93c31ac4;
+}
+.n-color-70 {
+    color: #eaa71fc9;
+}
+.n-color-90 {
+    color: #ee571ab8;
+}
+.n-color-99 {
+    color: #bc3707c4;
+}
+.n-color-100 {
+    color: #ff0000;
+}
