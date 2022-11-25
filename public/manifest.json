@@ -2,12 +2,12 @@
   "manifestVersion": 1,
   "id": "naext_one",
   "name": "Naext.one",
-  "author": "remnote",
+  "author": "Heye Groß",
   "repoUrl": "https://github.com/DonSqualo/RemNote-Naextone",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "theme": [],
   "enableOnMobile": false,
